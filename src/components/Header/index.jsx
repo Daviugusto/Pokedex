@@ -7,9 +7,9 @@ function Headers() {
 
   return (
     <ContainerH>
-      <PáginaInicial><a href="/">Página Inicial</a></PáginaInicial>
-      <Pokédex ><a href="/Pokédex">Pokédex</a></Pokédex>
-      <Créditos><a href="/Créditos">Créditos</a></Créditos>
+      <PáginaInicial><Link to="/">Página Inicial</Link></PáginaInicial>
+      <Pokédex ><Link to="/Pokédex">Pokédex</Link></Pokédex>
+      <Créditos><Link to="/Créditos">Créditos</Link></Créditos>
     </ContainerH>
   )
 }

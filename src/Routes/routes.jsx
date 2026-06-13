@@ -11,8 +11,8 @@ function Router() {
         <Routes>
             <Route element={<DefaultLayout/>}></Route>
             <Route path='/' element={<Home/>}> </Route>
-            <Route path='/pokédex' element={<Pokedex/>}></Route>
-            <Route path='/créditos' element={<Creditos/>}></Route>
+            <Route path='/pokédex' element={<Pokédex/>}></Route>
+            <Route path='/créditos' element={<Créditos/>}></Route>
         </Routes>
 
     )

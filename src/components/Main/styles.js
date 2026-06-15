@@ -3,10 +3,12 @@ import styled from 'styled-components'
 export const Container = styled.div`
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   min-height: 100vh;
+  min-width:100vw;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 20px;
+
 `
 
 export const Pokedex = styled.div`

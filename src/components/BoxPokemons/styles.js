@@ -68,7 +68,7 @@ export const Pagination = styled.div`
   button {
     padding: 10px 20px;
     font-size: 14px;
-    background-color: #ff4400;
+    background-color: #000000;
     color: white;
     border: none;
     border-radius: 4px;

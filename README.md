@@ -9,12 +9,14 @@ Uma aplicação web desenvolvida para consultar e exibir informações de Pokém
 * Navegação entre Pokémon
 * Interface responsiva
 * Consumo de API em tempo real
+
 🛠️ Tecnologias
 
 * HTML5
 * CSS3
 * JavaScript
 * PokéAPI
+* REACT
 
 🎯 Objetivo
 

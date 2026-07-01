@@ -1,26 +1,36 @@
-📊 Dashboard Administrativo
+🎮 Pokédex
 
-Um dashboard administrativo desenvolvido com React e JavaScript, focado na visualização de métricas e gerenciamento de dados. O projeto simula um sistema corporativo moderno, oferecendo uma interface intuitiva, responsiva e organizada.
+Uma aplicação web desenvolvida para consultar e exibir informações de Pokémon utilizando uma API pública. O projeto oferece uma interface simples, responsiva e dinâmica para pesquisar diferentes Pokémon.
 
 🚀 Funcionalidades
-Dashboard com métricas em tempo real (simuladas)
-Gráficos interativos
-Sidebar responsiva
-Layout adaptável para dispositivos móveis
-Componentes reutilizáveis
-Interface moderna
+
+* Pesquisa de Pokémon por nome ou número
+* Exibição de imagem, nome e ID
+* Navegação entre Pokémon
+* Interface responsiva
+* Consumo de API em tempo real
 🛠️ Tecnologias
-React
-JavaScript
-Styled Components
-React Icons
+
+* HTML5
+* CSS3
+* JavaScript
+* PokéAPI
+
 🎯 Objetivo
 
-Este projeto foi desenvolvido para praticar a criação de interfaces administrativas modernas, organização de componentes, responsividade e boas práticas de desenvolvimento Front-End.
+Praticar o consumo de APIs REST, manipulação do DOM, tratamento de requisições assíncronas e criação de interfaces dinâmicas utilizando JavaScript.
 
 📸 Preview
-<img width="800" height="613" alt="devpulse" src="https://github.com/user-attachments/assets/85d1d45d-53db-4596-a529-f1ccf929a0fc" />
+
+
+<img width="566" height="577" alt="pokmeon" src="https://github.com/user-attachments/assets/ec1c9d3b-4611-4292-a418-b82e91b4f18f" />
+
+
 🔗 Demonstração
-https://devpulseadmin.netlify.app/
+
+https://pokdexindex.netlify.app/
+
+
 👨‍💻 Autor
-Desenvolvido por Davi
+
+Desenvolvido por Davi.
